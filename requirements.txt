@@ -1,0 +1,5 @@
+scapy
+PyQt5
+logging
+socket
+threading
